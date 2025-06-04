@@ -16,8 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NLaureano&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLaureano&layout=compact)
+Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLaureano&layout=compact)
 
 ---
 
