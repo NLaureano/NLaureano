@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nick
 
 🎓 I'm a CS Student passionate about Machine Learning and interdisciplinary research.  
-🛠️ Tech I'm working with: Rust, HTML/CSS/JS/TS 
-💼 Previously at: Microsoft
-💼 Employment: Epic (Verona, Wisconsin) Starting August 2026
+🛠️ Tech I'm working with: Rust, HTML/CSS/JS/TS  
+💼 Previously at: Microsoft  
+💼 Employment: Epic (Verona, Wisconsin) Starting August 2026  
 📍 Based in: Eugene, Oregon, USA  
 📫 Reach me at: laureano@uoregon.edu | [LinkedIn](www.linkedin.com/in/nicholas-laureano)
 
